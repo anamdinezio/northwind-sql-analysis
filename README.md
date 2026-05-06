@@ -50,14 +50,16 @@ advanced SQL techniques — CTEs, window functions, subqueries, and time intelli
   running totals), time intelligence (YEAR, MONTH, DATEPART, DATEDIFF)
 
 ## 📁 Repository Structure
-northwind-sql-analysis/
-├── 01_top_customers.sql
-├── 02_employee_performance.sql
-├── 03_category_revenue.sql
-├── 04_monthly_trends.sql
-├── 05_yoy_growth.sql
-├── screenshots/
-└── README.md
+
+| File | Description |
+|------|-------------|
+| `01_top_customers.sql` | Top 10 customers by revenue |
+| `02_employee_performance.sql` | Employee revenue & % of total |
+| `03_category_revenue.sql` | Category revenue with product ranking |
+| `04_monthly_trends.sql` | Monthly trends, running total, MoM growth |
+| `05_yoy_growth.sql` | Year over year revenue growth |
+| `screenshots/` | Query result screenshots |
+| `README.md` | Project documentation |
 
 ---
 *Part of my data analytics portfolio. Tools: T-SQL · SQL Server · Power BI*
