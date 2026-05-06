@@ -45,9 +45,9 @@ advanced SQL techniques — CTEs, window functions, subqueries, and time intelli
 ## 🛠️ Tools & Skills
 - **Database:** Microsoft SQL Server (T-SQL)
 - **IDE:** SQL Server Management Studio (SSMS) 21
-- **Techniques:** INNER JOIN, LEFT JOIN, GROUP BY, HAVING, CTEs, 
-  correlated subqueries, window functions (RANK, ROW_NUMBER, LAG, 
-  running totals), time intelligence (YEAR, MONTH, DATEPART, DATEDIFF)
+- **Techniques:** INNER JOIN, GROUP BY, FORMAT, CTEs, CROSS JOIN, 
+  RANK() with PARTITION BY, window functions (LAG, SUM OVER running total), 
+  NULLIF, time intelligence (YEAR, MONTH)
 
 ## 📁 Repository Structure
 
