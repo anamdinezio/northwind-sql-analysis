@@ -31,16 +31,16 @@ advanced SQL techniques — CTEs, window functions, subqueries, and time intelli
 ![Top Customers](screenshots/01_top_customers_result_only.png)
 
 ### 02 — Employee Performance & Revenue Share
-![Employee Performance](screenshots/02_employee_result_only.png)
+![Employee Performance](screenshots/02_employee_performance_result_only.png)
 
 ### 03 — Category Revenue with Product Ranking
-![Category Revenue](screenshots/03_category_result_only.png)
+![Category Revenue](screenshots/03_category_revenue_result_only.png)
 
 ### 04 — Monthly Revenue Trends with Running Total
 ![Monthly Trends](screenshots/04_monthly_trend_result_only.png)
 
 ### 05 — Year over Year Revenue Growth
-![YoY Growth](screenshots/05_yoy_result_only.png)
+![YoY Growth](screenshots/05_yoy_growth_result_only.png)
 
 ## 🛠️ Tools & Skills
 - **Database:** Microsoft SQL Server (T-SQL)
@@ -50,3 +50,14 @@ advanced SQL techniques — CTEs, window functions, subqueries, and time intelli
   running totals), time intelligence (YEAR, MONTH, DATEPART, DATEDIFF)
 
 ## 📁 Repository Structure
+northwind-sql-analysis/
+├── 01_top_customers.sql
+├── 02_employee_performance.sql
+├── 03_category_revenue.sql
+├── 04_monthly_trends.sql
+├── 05_yoy_growth.sql
+├── screenshots/
+└── README.md
+
+---
+*Part of my data analytics portfolio. Tools: T-SQL · SQL Server · Power BI*
